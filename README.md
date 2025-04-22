@@ -31,8 +31,8 @@
     <strong>🛠️ Tecnologias e Ferramentas</strong><br>
     <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
   <img align="center" alt="Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
-  <img align="center" alt="Django-Rest-Framework" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain.svg">
+  <img src="icones/django-svgrepo-com.svg" alt="Django" width="70" height="60" align="middle"/>
+  <img src="icones/django_rest_framework.jpg" alt="Django Rest Framework" width="90" height="50" align="middle"/>
   <img align="center" alt="Html" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
