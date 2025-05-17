@@ -3,7 +3,7 @@
 <hr>
 <ul style="list-style: none; padding: 0; margin: 0;">
   <li style="margin-bottom: 1em;">
-    Um desenvolvedor de software do Recanto Maestro, Rio Grande do Sul
+    Um desenvolvedor Back-end do Recanto Maestro, Rio Grande do Sul
   </li>
   <br>
   <li style="margin-bottom: 1em;">
