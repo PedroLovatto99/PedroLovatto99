@@ -52,10 +52,10 @@
 
 <ul style="list-style: none; padding: 0; margin: 0;">
   <li style="margin-bottom: 1em;">
-    <strong>📚 Estou aprendendo</strong><br>
+    <strong>📚 Estou aprendendo</strong><br><br>
     <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-      <img align="center" alt="FastAPI" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
-      <img align="center" alt="Spring Boot" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
     </div>
   </li>
 </ul>
