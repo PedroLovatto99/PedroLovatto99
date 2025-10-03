@@ -24,7 +24,6 @@
     
   </li> <hr>
 
-  <!-- Backend and Ferramentas Section in Same Line -->
   <li style="margin-bottom: 1em; display: flex; justify-content: space-between;">
     <div style="flex: 1;">
       <strong>🛠️ Backend</strong><br>
@@ -47,8 +46,6 @@
     </div>
   </li>
   <hr>
-
-  <!-- Estou Aprendendo Section -->
   <li style="margin-bottom: 1em;">
     <strong>📚 Estou aprendendo</strong><br>
     <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
