@@ -35,15 +35,15 @@
       </div>
     </div>
     
-    <div style="flex: 1;">
-      <strong>🔧 Ferramentas</strong><br>
-      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-        <img align="center" alt="Git" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-        <img align="center" alt="Postman" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-        <img align="center" alt="VSCode" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-        <img align="center" alt="IntelliJ" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-      </div>
+  <div style="flex: 1;">
+    <strong>🛠️ Backend</strong><br>
+    <div style="display: flex; gap: 1em; flex-wrap: wrap; align-items: center;">
+      <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center" alt="Django" height="60" width="60" src="icones/django-svgrepo-com.svg">
+      <img align="center" alt="Django Rest Framework" height="60" width="60" src="icones/django_rest_framework.jpg">
+      <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
     </div>
+  </div>
   </li>
   <hr>
   <li style="margin-bottom: 1em;">
