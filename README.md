@@ -1,5 +1,5 @@
 ## Olá, eu sou o Pedro👋
-<p>Um desenvolvedor Back-end do Recanto Maestro, Rio Grande do Sul</p>
+<p>Sou um desenvolvedor back-end que está sempre buscando aprender e aplicar novas ferramentas e linguagens.</p>
 <hr>
 <ul style="list-style: none; padding: 0; margin: 0;">
   <li style="margin-bottom: 1em;">
