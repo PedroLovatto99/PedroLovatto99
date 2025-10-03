@@ -24,26 +24,26 @@
     
   </li> <hr>
 
-  <!-- Backend Section -->
-  <li style="margin-bottom: 1em;"> 
-    <strong>🛠️ Backend</strong><br>
-    <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-      <img align="center" alt="Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img src="icones/django-svgrepo-com.svg" alt="Django" width="70" height="60" align="middle"/>
-      <img src="icones/django_rest_framework.jpg" alt="Django Rest Framework" width="90" height="50" align="middle"/>
-      <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <!-- Backend and Ferramentas Section in Same Line -->
+  <li style="margin-bottom: 1em; display: flex; justify-content: space-between;">
+    <div style="flex: 1;">
+      <strong>🛠️ Backend</strong><br>
+      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
+        <img align="center" alt="Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img src="icones/django-svgrepo-com.svg" alt="Django" width="70" height="60" align="middle"/>
+        <img src="icones/django_rest_framework.jpg" alt="Django Rest Framework" width="90" height="50" align="middle"/>
+        <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+      </div>
     </div>
-  </li>
-  <hr>
-
-  <!-- Ferramentas Section -->
-  <li style="margin-bottom: 1em;"> 
-    <strong>🔧 Ferramentas</strong><br>
-    <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-      <img align="center" alt="Git" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-      <img align="center" alt="Postman" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-      <img align="center" alt="VSCode" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-      <img align="center" alt="IntelliJ" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+    
+    <div style="flex: 1;">
+      <strong>🔧 Ferramentas</strong><br>
+      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
+        <img align="center" alt="Git" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+        <img align="center" alt="Postman" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
+        <img align="center" alt="VSCode" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+        <img align="center" alt="IntelliJ" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+      </div>
     </div>
   </li>
   <hr>
