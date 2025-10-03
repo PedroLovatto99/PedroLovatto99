@@ -27,22 +27,22 @@
 
 <table>
   <tr>
-    <td valign="top">
-      <strong>🛠️ Backend</strong><br>
+    <td valign="top" width="50%">
+      <strong>🛠️ Backend</strong><br><br>
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-        <img align="center" alt="Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <img src="icones/django-svgrepo-com.svg" alt="Django" width="70" height="60" align="middle"/>
-        <img src="icones/django_rest_framework.jpg" alt="Django Rest Framework" width="90" height="50" align="middle"/>
-        <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+        <img src="https://img.shields.io/badge/Django_REST-A4A4A4?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
       </div>
     </td>
-    <td valign="top">
-      <strong>🔧 Ferramentas</strong><br>
-      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center; padding-top: 20px;">
-        <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-        <img align="center" alt="Postman" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-        <img align="center" alt="VSCode" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-        <img align="center" alt="IntelliJ" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+    <td valign="top" width="50%">
+      <strong>🔧 Ferramentas</strong><br><br>
+      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
       </div>
     </td>
   </tr>
