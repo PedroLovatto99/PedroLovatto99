@@ -38,8 +38,8 @@
     </td>
     <td valign="top">
       <strong>🔧 Ferramentas</strong><br>
-      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center; padding-top: 70px;">
-        <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center; padding-top: 10px;">
+        <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-top: 30px;">
         <img align="center" alt="Postman" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
         <img align="center" alt="VSCode" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
         <img align="center" alt="IntelliJ" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
