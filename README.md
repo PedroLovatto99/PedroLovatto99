@@ -3,8 +3,6 @@
 <p>Um desenvolvedor Back-end do Recanto Maestro, Rio Grande do Sul</p>
 <hr>
 <ul style="list-style: none; padding: 0; margin: 0;">
-    
-  <br>
   <li style="margin-bottom: 1em;">
     💼 Trabalho no projeto TecnoAMF da Antonio Meneghetti Faculdade.
   </li>
