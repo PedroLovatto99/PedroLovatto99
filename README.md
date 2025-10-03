@@ -56,7 +56,7 @@
     <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-      <img src="https://img.shields.io/badge/RESTful_API-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="RESTful API"/>
+      <img src="https://img.shields.io/badge/RESTful_Architecture-808080?style=for-the-badge&logo=archlinux&logoColor=white" alt="RESTful Architecture"/>
     </div>
   </li>
 </ul>
