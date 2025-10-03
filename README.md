@@ -40,10 +40,10 @@
   <li style="margin-bottom: 1em;"> 
     <strong>🔧 Ferramentas</strong><br>
     <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-      <img align="center" alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-      <img align="center" alt="Postman" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-      <img align="center" alt="VSCode" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-      <img align="center" alt="IntelliJ" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+      <img align="center" alt="Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+      <img align="center" alt="Postman" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
+      <img align="center" alt="VSCode" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+      <img align="center" alt="IntelliJ" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
     </div>
   </li>
   <hr>
@@ -52,8 +52,8 @@
   <li style="margin-bottom: 1em;">
     <strong>📚 Estou aprendendo</strong><br>
     <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-      <img align="center" alt="FastAPI" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
-      <img align="center" alt="Spring Boot" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+      <img align="center" alt="FastAPI" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+      <img align="center" alt="Spring Boot" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
     </div>
   </li>
 </ul>
