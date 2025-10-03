@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>🛠️ Backend</strong><br><br>
+      <strong>🛠️ Linguagens e Frameworks </strong><br><br>
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
