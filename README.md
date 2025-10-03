@@ -38,7 +38,7 @@
     </td>
     <td valign="top">
       <strong>🔧 Ferramentas</strong><br>
-      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center; padding-top: 10px;">
+      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center; padding-top: 20px;">
         <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
         <img align="center" alt="Postman" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
         <img align="center" alt="VSCode" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
