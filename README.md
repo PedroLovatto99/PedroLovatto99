@@ -1,10 +1,9 @@
 
 ## Olá, eu sou o Pedro👋
+<p>Um desenvolvedor Back-end do Recanto Maestro, Rio Grande do Sul</p>
 <hr>
 <ul style="list-style: none; padding: 0; margin: 0;">
-  <li style="margin-bottom: 1em;">
-    Um desenvolvedor Back-end do Recanto Maestro, Rio Grande do Sul
-  </li>
+    
   <br>
   <li style="margin-bottom: 1em;">
     💼 Trabalho no projeto TecnoAMF da Antonio Meneghetti Faculdade.
