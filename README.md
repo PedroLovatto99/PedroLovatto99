@@ -1,4 +1,3 @@
-
 ## Olá, eu sou o Pedro👋
 <p>Um desenvolvedor Back-end do Recanto Maestro, Rio Grande do Sul</p>
 <hr>
@@ -24,13 +23,37 @@
     </a>
     
   </li> <hr>
+
+  <!-- Backend Section -->
   <li style="margin-bottom: 1em;"> 
-    <strong>🛠️ Tecnologias e Ferramentas</strong><br>
+    <strong>🛠️ Backend</strong><br>
     <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-  <img align="center" alt="Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img src="icones/django-svgrepo-com.svg" alt="Django" width="70" height="60" align="middle"/>
-  <img src="icones/django_rest_framework.jpg" alt="Django Rest Framework" width="90" height="50" align="middle"/>
-  <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+      <img align="center" alt="Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img src="icones/django-svgrepo-com.svg" alt="Django" width="70" height="60" align="middle"/>
+      <img src="icones/django_rest_framework.jpg" alt="Django Rest Framework" width="90" height="50" align="middle"/>
+      <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+    </div>
+  </li>
+  <hr>
+
+  <!-- Ferramentas Section -->
+  <li style="margin-bottom: 1em;"> 
+    <strong>🔧 Ferramentas</strong><br>
+    <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
+      <img align="center" alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+      <img align="center" alt="Postman" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
+      <img align="center" alt="VSCode" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+      <img align="center" alt="IntelliJ" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+    </div>
+  </li>
+  <hr>
+
+  <!-- Estou Aprendendo Section -->
+  <li style="margin-bottom: 1em;">
+    <strong>📚 Estou aprendendo</strong><br>
+    <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
+      <img align="center" alt="FastAPI" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+      <img align="center" alt="Spring Boot" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
     </div>
   </li>
 </ul>
