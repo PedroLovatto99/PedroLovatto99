@@ -27,7 +27,7 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <strong>🛠️ Linguagens e Frameworks </strong><br><br>
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -36,20 +36,13 @@
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
       </div>
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
       <strong>🔧 Ferramentas</strong><br><br>
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-      </div>
-    </td>
-    <td valign="top">
-      <strong>🗄️ Banco de Dados</strong><br><br>
-      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
       </div>
     </td>
   </tr>
@@ -66,3 +59,6 @@
     </div>
   </li>
 </ul>
+
+
+coloca a seção de "banco de dados" e coloca postgresql e sqlite
