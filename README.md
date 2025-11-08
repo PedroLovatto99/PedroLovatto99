@@ -79,7 +79,7 @@
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
           align="center" 
-          src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+          src="https://github-readme-stats.vercel.app/api?username=PedroLovatto99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
           alt="Estatísticas do GitHub" 
         />
       </a>
