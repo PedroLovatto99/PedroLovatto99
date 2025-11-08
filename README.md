@@ -83,19 +83,3 @@
   </li>
 </ul>
 
-<hr>
-
-<ul style="list-style: none; padding: 0; margin: 0;">
-  <li style="margin-bottom: 1em;">
-    <strong>📊 Estatísticas do GitHub</strong><br><br>
-    <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img 
-          align="center" 
-          src="https://github-readme-stats.vercel.app/api?username=PedroLovatto99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-          alt="Estatísticas do GitHub" 
-        />
-      </a>
-    </div>
-  </li>
-</ul>
