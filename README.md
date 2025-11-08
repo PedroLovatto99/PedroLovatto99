@@ -72,6 +72,19 @@
 
 <hr>
 
+
+<ul style="list-style: none; padding: 0; margin: 0;">
+  <li style="margin-bottom: 1em;">
+    <strong>📚 Estou aprendendo</strong><br><br>
+    <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+      <img src="https://img.shields.io/badge/RESTful_Architecture-808080?style=for-the-badge&logo=archlinux&logoColor=white" alt="RESTful Architecture"/>
+    </div>
+  </li>
+</ul>
+
+<hr>
+
 <ul style="list-style: none; padding: 0; margin: 0;">
   <li style="margin-bottom: 1em;">
     <strong>📊 Estatísticas do GitHub</strong><br><br>
@@ -83,23 +96,6 @@
           alt="Estatísticas do GitHub" 
         />
       </a>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img 
-          align="center" 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide_border=true" 
-          alt="Linguagens Mais Usadas" 
-        />
-      </a>
-    </div>
-  </li>
-</ul>
-
-<ul style="list-style: none; padding: 0; margin: 0;">
-  <li style="margin-bottom: 1em;">
-    <strong>📚 Estou aprendendo</strong><br><br>
-    <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-      <img src="https://img.shields.io/badge/RESTful_Architecture-808080?style=for-the-badge&logo=archlinux&logoColor=white" alt="RESTful Architecture"/>
     </div>
   </li>
 </ul>
