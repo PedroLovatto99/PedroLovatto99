@@ -58,29 +58,23 @@
     </td>
   </tr>
 
-  <tr>
-    <td valign="top" width="50%">
+  <tr style="display: flex; justify-content: space-between;">
+    <td valign="top" width="48%">
       <strong>🗄️ Banco de Dados</strong><br><br>
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
         <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
       </div>
     </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="48%">
       <strong>🏗️ Arquitetura</strong><br><br>
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-          <img src="https://img.shields.io/badge/RESTful_Architecture-808080?style=for-the-badge&logo=archlinux&logoColor=white" alt="RESTful Architecture"/>
+        <img src="https://img.shields.io/badge/RESTful_Architecture-808080?style=for-the-badge&logo=archlinux&logoColor=white" alt="RESTful Architecture"/>
       </div>
     </td>
   </tr>
 
 </table>
-
-<hr>
-
 
 <ul style="list-style: none; padding: 0; margin: 0;">
   <li style="margin-bottom: 1em;">
