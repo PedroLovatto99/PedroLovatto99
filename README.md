@@ -47,6 +47,14 @@
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
       </div>
     </td>
+      <tr>
+    <td valign="top" width="50%">
+      <strong>🏗️ Arquitetura</strong><br><br>
+      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
+          <img src="https://img.shields.io/badge/RESTful_Architecture-808080?style=for-the-badge&logo=archlinux&logoColor=white" alt="RESTful Architecture"/>
+      </div>
+    </td>
+  </tr>
     <td valign="top" width="50%">
       <strong>🔧 Ferramentas</strong><br><br>
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
@@ -57,16 +65,6 @@
       </div>
     </td>
   </tr>
-
-  <tr>
-    <td valign="top" width="50%">
-      <strong>🏗️ Arquitetura</strong><br><br>
-      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-          <img src="https://img.shields.io/badge/RESTful_Architecture-808080?style=for-the-badge&logo=archlinux&logoColor=white" alt="RESTful Architecture"/>
-      </div>
-    </td>
-  </tr>
-
 
   <tr>
     <td valign="top" width="50%">
