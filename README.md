@@ -76,6 +76,8 @@
 
 </table>
 
+<hr>
+
 <ul style="list-style: none; padding: 0; margin: 0;">
   <li style="margin-bottom: 1em;">
     <strong>📚 Estou aprendendo</strong><br><br>
