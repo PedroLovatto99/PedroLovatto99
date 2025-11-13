@@ -60,19 +60,20 @@
 
   <tr>
     <td valign="top" width="50%">
-      <strong>🗄️ Banco de Dados</strong><br><br>
+      <strong>🏗️ Arquitetura</strong><br><br>
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+          <img src="https://img.shields.io/badge/RESTful_Architecture-808080?style=for-the-badge&logo=archlinux&logoColor=white" alt="RESTful Architecture"/>
       </div>
     </td>
   </tr>
 
+
   <tr>
     <td valign="top" width="50%">
-      <strong>🏗️ Arquitetura</strong><br><br>
+      <strong>🗄️ Banco de Dados</strong><br><br>
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-          <img src="https://img.shields.io/badge/RESTful_Architecture-808080?style=for-the-badge&logo=archlinux&logoColor=white" alt="RESTful Architecture"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
       </div>
     </td>
   </tr>
