@@ -68,6 +68,15 @@
     </td>
   </tr>
 
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🏗️ Arquitetura</strong><br><br>
+      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
+          <img src="https://img.shields.io/badge/RESTful_Architecture-808080?style=for-the-badge&logo=archlinux&logoColor=white" alt="RESTful Architecture"/>
+      </div>
+    </td>
+  </tr>
+
 </table>
 
 <hr>
@@ -78,7 +87,6 @@
     <strong>📚 Estou aprendendo</strong><br><br>
     <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-      <img src="https://img.shields.io/badge/RESTful_Architecture-808080?style=for-the-badge&logo=archlinux&logoColor=white" alt="RESTful Architecture"/>
     </div>
   </li>
 </ul>
