@@ -86,12 +86,4 @@
 
 <hr>
 
-<ul style="list-style: none; padding: 0; margin: 0;">
-  <li style="margin-bottom: 1em;">
-    <strong>📚 Estou aprendendo</strong><br><br>
-    <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-    </div>
-  </li>
-</ul>
 
