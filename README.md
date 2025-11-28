@@ -73,6 +73,15 @@
     </td>
   </tr>
 
+  <tr style="display: flex; justify-content: space-between;">
+    <td valign="top" width="48%">
+      <strong>🚀 DevOps</strong><br><br>
+      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      </div>
+    </td>
+  </tr>
+
 </table>
 
 <hr>
