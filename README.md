@@ -1,6 +1,6 @@
 ## Olá, eu sou o Pedro👋
 
-<p>Sou um desenvolvedor back-end que está sempre buscando aprender e aplicar novas ferramentas e linguagens.</p>
+<p>Sou um desenvolvedor Back-End que está sempre buscando aprender e aplicar novas ferramentas e linguagens.</p>
 
 <hr>
 
