@@ -6,8 +6,6 @@
 
 <ul style="list-style: none; padding: 0; margin: 0;">
 
-  <br>
-
   <li style="margin-bottom: 1em;">
     🎓 Estudo Sistemas de Informação na Antonio Meneghetti Faculdade.
   </li>
