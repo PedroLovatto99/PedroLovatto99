@@ -6,10 +6,6 @@
 
 <ul style="list-style: none; padding: 0; margin: 0;">
 
-  <li style="margin-bottom: 1em;">
-    💼 Trabalho no projeto TecnoAMF da Antonio Meneghetti Faculdade.
-  </li>
-
   <br>
 
   <li style="margin-bottom: 1em;">
