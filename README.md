@@ -81,10 +81,17 @@
   </tr>
 
   <tr>
-    <td colspan="2" valign="top">
+    <td valign="top" width="50%">
       <strong>🚀 DevOps</strong><br><br>
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <strong>🤖 Inteligência Artificial</strong><br><br>
+      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
+        <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
       </div>
     </td>
   </tr>
