@@ -25,16 +25,16 @@
 
 <hr>
 
-<table>
-  <tr style="display: flex; justify-content: space-between;">
-    <td valign="top" width="48%">
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
       <strong>⌨️ Linguagens</strong><br><br>
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
       </div>
     </td>
-    <td valign="top" width="48%">
+    <td valign="top" width="50%">
       <strong>⚙️ Frameworks</strong><br><br>
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
@@ -45,8 +45,8 @@
     </td>
   </tr>
 
-  <tr style="display: flex; justify-content: space-between;">
-    <td valign="top" width="48%">
+  <tr>
+    <td valign="top" width="50%">
       <strong>🗄️ Banco de Dados</strong><br><br>
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -54,7 +54,7 @@
         <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
       </div>
     </td>
-    <td valign="top" width="48%">
+    <td valign="top" width="50%">
       <strong>⚡ Cache</strong><br><br>
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
         <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
@@ -62,8 +62,8 @@
     </td>
   </tr>
 
-  <tr style="display: flex; justify-content: space-between;">
-    <td valign="top" width="48%">
+  <tr>
+    <td valign="top" width="50%">
       <strong>🔧 Ferramentas</strong><br><br>
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -72,7 +72,7 @@
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
       </div>
     </td>
-    <td valign="top" width="48%">
+    <td valign="top" width="50%">
       <strong>🏗️ Arquitetura</strong><br><br>
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
         <img src="https://img.shields.io/badge/RESTful_Architecture-808080?style=for-the-badge&logo=archlinux&logoColor=white" alt="RESTful Architecture"/>
@@ -80,8 +80,8 @@
     </td>
   </tr>
 
-  <tr style="display: flex; justify-content: space-between;">
-    <td valign="top" width="100%">
+  <tr>
+    <td colspan="2" valign="top">
       <strong>🚀 DevOps</strong><br><br>
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
