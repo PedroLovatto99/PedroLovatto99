@@ -25,6 +25,8 @@
 
 <hr>
 
+## 🛠️ Minha stack
+
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
