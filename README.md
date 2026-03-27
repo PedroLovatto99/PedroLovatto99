@@ -25,7 +25,7 @@
 
 <hr>
 
-## 🛠️ Minha stack
+## 💻 Minha stack
 
 <table width="100%">
   <tr>
