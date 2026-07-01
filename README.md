@@ -25,7 +25,7 @@
 
 <hr>
 
-## 💻 Minha stack
+## 💻 Tecnologias que utilizo
 
 <table width="100%">
   <tr>
