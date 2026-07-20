@@ -74,6 +74,9 @@
       <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
         <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logoColor=white" alt="RAG"/>
+        <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+        <img src="https://img.shields.io/badge/Spec--Driven_Development-005571?style=for-the-badge&logoColor=white" alt="Spec-Driven Development"/>
       </div>
     </td>
     <td valign="top" width="50%">
