@@ -27,79 +27,58 @@
 
 ## 💻 Tecnologias que utilizo
 
-<table width="100%">
+<table>
   <tr>
-    <td valign="top" width="50%">
-      <strong>💻 Linguagens</strong><br><br>
-      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <strong>📦 Frameworks</strong><br><br>
-      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-      </div>
+    <td><strong>Back-End</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,java,spring" alt="Back-End"/>
     </td>
   </tr>
-
   <tr>
-    <td valign="top" width="50%">
-      <strong>🔧 Ferramentas</strong><br><br>
-      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-        <img src="https://img.shields.io/badge/antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Antigravity"/>
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <strong>🗄️ Banco de Dados</strong><br><br>
-      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-      </div>
+    <td><strong>Front-End</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs" alt="Front-End"/>
     </td>
   </tr>
-
   <tr>
-    <td valign="top" width="50%">
-      <strong>🤖 Inteligência Artificial</strong><br><br>
-      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-        <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logoColor=white" alt="RAG"/>
-        <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-        <img src="https://img.shields.io/badge/Spec--Driven_Development-005571?style=for-the-badge&logoColor=white" alt="Spec-Driven Development"/>
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <strong>🏗️ Arquitetura</strong><br><br>
-      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-        <img src="https://img.shields.io/badge/RESTful_Architecture-808080?style=for-the-badge&logo=archlinux&logoColor=white" alt="RESTful Architecture"/>
-      </div>
+    <td><strong>Banco de Dados & Cache</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" alt="Banco de Dados e Cache"/>
     </td>
   </tr>
-
   <tr>
-    <td valign="top" width="50%">
-      <strong>🚀 DevOps</strong><br><br>
-      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-      </div>
+    <td><strong>Ferramentas</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,postman,vscode,idea" alt="Ferramentas"/>
     </td>
-    <td valign="top" width="50%">
-      <strong>⚡ Cache</strong><br><br>
-      <div style="display: flex; gap: 0.5em; flex-wrap: wrap; align-items: center;">
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-      </div>
+  </tr>
+  <tr>
+    <td><strong>DevOps</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" alt="DevOps"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Inteligência Artificial</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logoColor=white" alt="RAG"/>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+      <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Arquitetura & Metodologias</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/RESTful_API-808080?style=for-the-badge&logoColor=white" alt="RESTful API"/>
+      <img src="https://img.shields.io/badge/Spec--Driven_Development-005571?style=for-the-badge&logoColor=white" alt="Spec-Driven Development"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Segurança</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
     </td>
   </tr>
 </table>
