@@ -1,8 +1,4 @@
-<h2>Pedro Lovatto</h2>
-
-<p>Sou um desenvolvedor Back-End que está sempre buscando estudar e aprender novas tecnologias e ferramentas da área, para assim, expandir meus conhecimentos e elevar o nível técnico das soluções e projetos que desenvolvo.</p>
-
-<hr>
+<h2>Pedro Lovatto | Desenvolvedor Back-end</h2>
 
 <ul style="list-style: none; padding: 0; margin: 0;">
   <li style="margin-bottom: 1em;">
