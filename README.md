@@ -40,7 +40,7 @@
     </td>
     <td valign="top" width="50%">
       <strong>Front-End</strong><br><br>
-      <a><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/></a>
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/>
       <a><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/></a>
       <a><img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/></a>
       <a><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/></a>
