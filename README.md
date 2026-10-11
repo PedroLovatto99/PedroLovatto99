@@ -31,21 +31,36 @@
   <tr>
     <td valign="top" width="50%">
       <strong>Back-End</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,java,spring" alt="Back-End"/>
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/>
+      <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django"/>
+      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI"/>
+      <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask"/>
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/>
+      <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot"/>
     </td>
     <td valign="top" width="50%">
       <strong>Front-End</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs" alt="Front-End"/>
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/>
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>
+      <img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/>
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>Banco de Dados e Cache</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" alt="Banco de Dados e Cache"/>
+      <strong>Banco de Dados & Cache</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL"/>
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/>
+      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite"/>
+      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis"/>
     </td>
     <td valign="top" width="50%">
       <strong>Ferramentas</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,idea" alt="Ferramentas"/>
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/>
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/>
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code"/>
+      <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
     </td>
   </tr>
   <tr>
@@ -58,7 +73,7 @@
       <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
     </td>
     <td valign="top" width="50%">
-      <strong>Arquitetura e Metodologias</strong><br><br>
+      <strong>Arquitetura & Metodologias</strong><br><br>
       <img src="https://img.shields.io/badge/RESTful_API-808080?style=for-the-badge&logoColor=white" alt="RESTful API"/>
       <img src="https://img.shields.io/badge/Spec--Driven_Development-005571?style=for-the-badge&logoColor=white" alt="Spec-Driven Development"/>
     </td>
