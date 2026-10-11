@@ -31,51 +31,51 @@
   <tr>
     <td valign="top" width="50%">
       <strong>Back-End</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/>
-      <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django"/>
-      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI"/>
-      <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask"/>
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/>
-      <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot"/>
+      <a><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/></a>
+      <a><img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django"/></a>
+      <a><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI"/></a>
+      <a><img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask"/></a>
+      <a><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/></a>
+      <a><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot"/></a>
     </td>
     <td valign="top" width="50%">
       <strong>Front-End</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/>
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>
-      <img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/>
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/>
+      <a><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/></a>
+      <a><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/></a>
+      <a><img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/></a>
+      <a><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/></a>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>Banco de Dados & Cache</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL"/>
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/>
-      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite"/>
-      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis"/>
+      <strong>Banco de Dados e Cache</strong><br><br>
+      <a><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL"/></a>
+      <a><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/></a>
+      <a><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite"/></a>
+      <a><img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis"/></a>
     </td>
     <td valign="top" width="50%">
       <strong>Ferramentas</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/>
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/>
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code"/>
-      <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+      <a><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/></a>
+      <a><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/></a>
+      <a><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/></a>
+      <a><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code"/></a>
+      <a><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></a>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <strong>Inteligência Artificial</strong><br><br>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-      <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logoColor=white" alt="RAG"/>
-      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-      <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
+      <a><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a>
+      <a><img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logoColor=white" alt="RAG"/></a>
+      <a><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/></a>
+      <a><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/></a>
+      <a><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/></a>
     </td>
     <td valign="top" width="50%">
-      <strong>Arquitetura & Metodologias</strong><br><br>
-      <img src="https://img.shields.io/badge/RESTful_API-808080?style=for-the-badge&logoColor=white" alt="RESTful API"/>
-      <img src="https://img.shields.io/badge/Spec--Driven_Development-005571?style=for-the-badge&logoColor=white" alt="Spec-Driven Development"/>
+      <strong>Arquitetura e Metodologias</strong><br><br>
+      <a><img src="https://img.shields.io/badge/RESTful_API-808080?style=for-the-badge&logoColor=white" alt="RESTful API"/></a>
+      <a><img src="https://img.shields.io/badge/Spec--Driven_Development-005571?style=for-the-badge&logoColor=white" alt="Spec-Driven Development"/></a>
     </td>
   </tr>
 </table>
