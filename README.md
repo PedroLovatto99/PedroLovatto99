@@ -73,7 +73,6 @@
       <a><img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logoColor=white" alt="RAG"/></a>
       <a><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/></a>
       <a><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/></a>
-      <a><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/></a>
     </td>
     <td valign="top" width="50%">
       <strong>Arquitetura e Metodologias</strong><br><br>
